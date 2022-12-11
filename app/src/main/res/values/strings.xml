@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chemical Solutions</string>
+    <string name="hydrogen">Hydrogen</string>
+    <string name="oxygen">Oxygen</string>
+    <string name="nitrogen">Nitrogen</string>
+    <string name="sulphur">Sulphur</string>
+    <string name="zinc">Zinc</string>
+    <string name="carbon">carbon</string>
+    <string name="iron">Iron</string>
+    <string name="sodium">Sodium</string>
+    <string name="chlorine">Chlorine</string>
+    <string name="aluminum">Aluminum</string>
+    <string name="clear">Clear</string>
+</resources>
